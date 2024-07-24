@@ -19,16 +19,10 @@
       "reminder": false
     },
     {
-      "id": "609b",
-      "text": "Go and see the Pope",
-      "day": "20th June 2024, 7am",
-      "reminder": true
-    },
-    {
       "id": "ba86",
       "text": "Go to dentist",
       "day": "3rd March at 2pm",
-      "reminder": false
+      "reminder": true
     }
   ]
 }
